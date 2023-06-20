@@ -11,7 +11,7 @@ function clean() {
 function backspace() {
     if (resultado.textContent) {
         let result = document.getElementById('resultado').innerHTML
-        resultado.innerHTML = result.substring(0, result.length -2);
+        resultado.innerHTML = result.substring(0, result.length -3);
     }
 }
 function confirma() {
