@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'c:\Users\Italo\OneDrive\cr_junina\tl_principal.ui'
+# Form implementation generated from reading ui file 'c:\Users\Italo\OneDrive\cr_junina\arq_morto\tl_principal.ui'
 #
 # Created by: PyQt6 UI code generator 6.4.2
 #
